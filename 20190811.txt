@@ -1,0 +1,1000 @@
+   68  python secondcode.py
+   69  sudo nano check.txt
+   70  sudo nano quoteFile.txt
+   71  sudo nano firstcode.py
+   72  python secondcode.py
+   73  sudo nano firstcode.py
+   74  python secondcode.py
+   75  sudo nano firstcode.py
+   76  sudo nano secondcode.py
+   77  ll
+   78  sudo nano calcCode.py
+   79  sudo nano calcCallCode.py
+   80  sudo apt-get install python-matplotlib
+   81  sudo nano calcCallCode.py
+   82  python calcCallCode.py
+   83  sudo nano calcCallCode.py
+   84  python calcCallCode.py
+   85  sudo nano calcCallCode.py
+   86  python calcCallCode.py
+   87  sudo nano calcCallCode.py
+   88  python calcCallCode.py
+   89  sudo nano calcCallCode.py
+   90  python calcCallCode.py
+   91  sudo nano calcCallCode.py
+   92  python calcCallCode.py
+   93  sudo nano calcCallCode.py
+   94  python calcCallCode.py
+   95  sudo apt-get install python-tk
+   96  sudo nano calcCallCode.py
+   97  python calcCallCode.py
+   98  sudo nano calcCallCode.py
+   99  python calcCallCode.py
+  100  sudo nano calcCallCode.py
+  101  python calcCallCode.py
+  102  sudo nano calcCallCode.py
+  103  python calcCallCode.py
+  104  sudo nano calcCallCode.py
+  105  python calcCallCode.py
+  106  sudo nano calcCallCode.py
+  107  python calcCallCode.py
+  108  sudo nano calcCallCode.py
+  109  python calcCallCode.py
+  110  sudo nano calcCallCode.py
+  111  python calcCallCode.py
+  112  history
+  113  su aparna
+  114  stop-all.sh
+  115  pip install ipython
+  116  sudo pip install ipython
+  117  pip install ipython
+  118  pip install --user ipython
+  119  sudo pip install --user ipython
+  120  pip install ipython
+  121  cd  ..
+  122  pwd
+  123  cd ..
+  124  pwd
+  125  cd usr
+  126  cd local/lib
+  127  ll
+  128  sudo chmod 777 python2.7
+  129  sudopip install ipython
+  130  sudo pip install ipython
+  131  pip install ipython
+  132  sudo apt-get install python-matplotlib
+  133  cd~
+  134  cd ~
+  135  pwd
+  136  ~/.matplotlib/matplotlibrc
+  137  cd ..
+  138  cd usr
+  139  cd local/hadoop
+  140  ll
+  141  cd etc
+  142  ll
+  143  cd hadoop
+  144  ll
+  145  cd ..
+  146  ll
+  147  cd ..
+  148  ll
+  149  cd ..
+  150  locate matplotlib
+  151  locate .bashrc
+  152  locate .matplotlib
+  153  locate matplotlib
+  154  cd aparna
+  155  ll
+  156  ~
+  157  cd ~
+  158  cd ..
+  159  pwd
+  160  cd /usr
+  161  ll
+  162  cd share
+  163  ll
+  164  cd matplotlib
+  165  ll
+  166  cd matplotlib.conf
+  167  ll
+  168  sudo nano matplotlibrc.template
+  169  history
+  170  su aparna
+  171  start-dfs.sh
+  172  start-yarn.sh
+  173  sudo apt-get install pip
+  174  sudo apt-get update
+  175  sudo apt-get install python-pip
+  176  sudo apt-get update --fix-missing
+  177  sudo apt-get install python-pip
+  178  pip install pandas
+  179  sudo pip install pandas
+  180  sudo pip install matplotlib
+  181  pip install --upgrade pip
+  182  sudo pip install --upgrade pip
+  183  sudo pip install matplotlib
+  184  pythov --version
+  185  python --version
+  186  pip install matplotlib
+  187  stop-all.sh
+  188  start-all.sh
+  189  history
+  190  sudo nano firstcode.py
+  191  start-all.sh
+  192  sudo nano secondcode.py
+  193  sudo nano firstcode.py
+  194  sudo nano secondcode.py
+  195  python secondcode.py
+  196  sudo nano firstcode.py
+  197  python secondcode.py
+  198  sudo nano firstcode.py
+  199  python secondcode.py
+  200  sudo nano firstcode.py
+  201  python secondcode.py
+  202  sudo nano firstcode.py
+  203  python secondcode.py
+  204  sudo nano secondcode.py
+  205  python secondcode.py
+  206  sudo nano secondcode.py
+  207  sudo nano firstcode.py
+  208  python secondcode.py
+  209  sudo nano firstcode.py
+  210  sudo nano quotes.py
+  211  sudo nano quote.py
+  212  python secondcode.p
+  213  sudo nano secondcode.py
+  214  sudo nano quoteFile.txt
+  215  sudo nano secondcode.py
+  216  sudo nano firstcode.py
+  217  python secondcode.p
+  218  python secondcode.py
+  219  sudo nano firstcode.py
+  220  sudo nano calcCode.py
+  221  sudo nano secondcode.py
+  222  python secondcode.py
+  223  sudo nano secondcode.py
+  224  python secondcode.py
+  225  sudo nano secondcode.py
+  226  python secondcode.py
+  227  sudo nano secondcode.py
+  228  sudo nano calcCallCode.py
+  229  python calcCallCode.py
+  230  sudo nano calcCallCode.py
+  231  python calcCallCode.py
+  232  sudo nano calcCallCode.py
+  233  python calcCallCode.py
+  234  sudo nano calcCallCode.py
+  235  python calcCallCode.py
+  236  hadoop dfs -put /home/aparna/Downloads/Sample - Superstore.xls /data
+  237  hadoop dfs -put /home/aparna/Downloads/SampleSuperstore.xls /data
+  238  hadoop dfs -put /home/aparna/Downloads/SampleSuperstore.xls /data/bigfile
+  239  hadoop dfs -cat /data/bigfile/SampleSuperstore.xls
+  240  sudo nano calcCallCode.py
+  241  python calcCallCode.py
+  242  sudp pip install matplotlib
+  243  sudo pip install matplotlib
+  244  pip install matplotlib
+  245  locate pip
+  246  locate pandas
+  247  locate panda
+  248  locate matplotlib
+  249  chown -R hduser ~
+  250  sudo pip install matplotlib
+  251  sudo apt-get install libfreetype6-dev
+  252  sudo apt-get install pkg-config
+  253  sudo apt-get install libpng12-dev
+  254  sudo apt-get install pkg-config
+  255  sudo nano calcCallCode.py
+  256  python calcCallCode.py
+  257  sudo cat /home/aparna/Downloads/SampleSuperstore.csv 
+  258  python calcCallCode.py
+  259  sudo nano calcCallCode.py
+  260  python calcCallCode.py
+  261  sudo nano calcCallCode.py
+  262  python calcCallCode.py
+  263  sudo nano calcCallCode.py
+  264  python calcCallCode.py
+  265  sudo nano calcCallCode.py
+  266  python calcCallCode.py
+  267  sudo nano calcCallCode.py
+  268  python calcCallCode.py
+  269  sudo nano calcCallCode.py
+  270  python calcCallCode.py
+  271  sudo nano calcCallCode.py
+  272  python calcCallCode.py
+  273  sudo nano calcCallCode.py
+  274  python calcCallCode.py
+  275  sudo nano calcCallCode.py
+  276  python calcCallCode.py
+  277  sudo nano calcCallCode.py
+  278  python calcCallCode.py
+  279  sudo nano calcCallCode.py
+  280  python calcCallCode.py
+  281  sudo nano calcCallCode.py
+  282  python calcCallCode.py
+  283  sudo nano firstcode.py
+  284  sudo nano secondcode.py
+  285  python secondcode.py
+  286  sudo nano secondcode.py
+  287  python secondcode.py
+  288  sudo nano secondcode.py
+  289  gedit /home/aparna/quoteFile.txt
+  290  gedit quoteFile.txt
+  291  ll
+  292  gedit quoteFile.txt
+  293  nano quoteFile.txt
+  294  sudo nano secondcode.py
+  295  sudo nano firstcode.py
+  296  python secondcode.py
+  297  sudo nano firstcode.py
+  298  python secondcode.py
+  299  python
+  300  sudo nano firstcode.py
+  301  python secondcode.py
+  302  sudo nano firstcode.py
+  303  python secondcode.py
+  304  sudo nano firstcode.py
+  305  sudo nano secondcode.py
+  306  sudo nano calcCallCode.py
+  307  pythin calcCallCode.py
+  308  python calcCallCode.py
+  309  sudo nano calcCallCode.py
+  310  python calcCallCode.py
+  311  sudo nano calcCallCode.py
+  312  python calcCallCode.py
+  313  sudo nano calcCallCode.py
+  314  python calcCallCode.py
+  315  sudo nano calcCallCode.py
+  316  python calcCallCode.py
+  317  sudo nano calcCallCode.py
+  318  python calcCallCode.py
+  319  sudo nano calcCallCode.py
+  320  python calcCallCode.py
+  321  sudo nano calcCallCode.py
+  322  python calcCallCode.py
+  323  sudo nano calcCallCode.py
+  324  python calcCallCode.py
+  325  sudo nano calcCallCode.py
+  326  python calcCallCode.py
+  327  sudo pip install hdfs
+  328  sudo nano readFromHdfs.py
+  329  stop-all.dsh
+  330  stop-all.sh
+  331  locate hdfs-site.xml
+  332  cd ..
+  333  pwd
+  334  cd usr
+  335  cd local
+  336  cd hadoop
+  337  cd etc
+  338  cd hadoop
+  339  ll
+  340  sudo nano hdfs-site.xml
+  341  locate hdfs-site.xml
+  342  cd ~
+  343  pwd
+  344  cd ..
+  345  pwd
+  346  cd ..
+  347  pwd
+  348  cd usr
+  349  cd local
+  350  cd cd hadoop
+  351  cd etc
+  352  cd hadoop
+  353  ll
+  354  cd ..
+  355  cd hadoop
+  356  cd etc
+  357  cd hadoop
+  358  ll
+  359  cd ~
+  360  pwd
+  361  start-all.sh
+  362  sudo nano readFromHdfs.py
+  363  python readFromHdfs.py
+  364  sudo nano readFromHdfs.py
+  365  python readFromHdfs.py
+  366  sudo nano readFromHdfs.py
+  367  cd ..
+  368  pwd
+  369  locate hdfs-site.xml
+  370  cd usr
+  371  pwd
+  372  cd local
+  373  cd hadoop
+  374  ll
+  375  cd etc
+  376  ll
+  377  cd hadoop
+  378  ll
+  379  cd ..
+  380  ll
+  381  cd hadoop
+  382  ll
+  383  cd etc
+  384  ll
+  385  cd ..
+  386  ll
+  387  tar zxvf pig-0.17.0.tar.gz
+  388  ll
+  389  cd pig-0.17.0
+  390  ll
+  391  cd bin
+  392  pwd
+  393  cd ..
+  394  ll
+  395  cd etc
+  396  ll
+  397  cd hadoop
+  398  ll
+  399  sudo nano readFromHdfs.py
+  400  python readFromHdfs.py
+  401  sudo nano readFromHdfs.py
+  402  cd ~
+  403  pwd
+  404  cd ..
+  405  cd aparna
+  406  cd Downloads
+  407  ll
+  408  cd ~
+  409  pwd
+  410  sudo nano readHdfsFile.py
+  411  python readHdfsFile.py
+  412  sudo nano readHdfsFile.py
+  413  python readHdfsFile.py
+  414  sudo nano readHdfsFile.py
+  415  python readHdfsFile.py
+  416  sudo nano readHdfsFile.py
+  417  python readHdfsFile.py
+  418  sudo nano readHdfsFile.py
+  419  python readHdfsFile.py
+  420  sudo nano readHdfsFile.py
+  421  python readHdfsFile.py
+  422  sudo nano readHdfsFile.py
+  423  python readHdfsFile.py
+  424  sudo nano readHdfsFile.py
+  425  python readHdfsFile.py
+  426  sudo nano readHdfsFile.py
+  427  history
+  428  locate calcCallCode.py
+  429  locate calcCallCod
+  430  locate calcCal
+  431  cd ~
+  432  locate calcCal
+  433  su aparna
+  434  sudo nano test.txt
+  435  pig
+  436  cd ..
+  437  pwd
+  438  ll
+  439  ls
+  440  cd etc
+  441  ls
+  442  cd ..
+  443  cd homw
+  444  cd home
+  445  cd usr/local
+  446  ls
+  447  cd hadoop
+  448  ls
+  449  cd etc
+  450  ls
+  451  cd hadoop
+  452  ll
+  453  cat core-site.xml
+  454  hadoop dfs -cat /test/test.txt
+  455  hadoop dfs -cp /home/aparna/Downloads/SampleSuperstores.csv /test
+  456  hadoop dfs -put /home/aparna/Downloads/SampleSuperstores.csv /test/
+  457  cd~
+  458  cd ~
+  459  cd ..
+  460  ls
+  461  sudo mkdir pig
+  462  ls
+  463  cd pig
+  464  sudo nano sample.pig
+  465  sudo nano pig_1532972437964.log
+  466  cd ..
+  467  cd pig
+  468  sudo nano sample.pig
+  469  customer = LOAD '/home/aparna/test.txt' USING PigStorage(',') as (id:chararray,$
+  470  sudo nano pig_1532972437964.log
+  471  cd ..
+  472  cd aparna
+  473  sudo nano pig_1532972437964.log
+  474  ls
+  475  cd ..
+  476  cd pig
+  477  ls
+  478  sudo nano myudf.py
+  479  cd ..
+  480  cd pig
+  481  ls'
+  482  ;
+  483  quit
+  484  ;
+  485  ;;
+  486  exit
+  487  ls
+  488  cd ..
+  489  cd pig
+  490  ls
+  491  sudo nano muydf.py
+  492  cd ..
+  493  cd pig
+  494  sudo nano myfun.py
+  495  sudo chmod 777 myfun.py
+  496  sudo nano myfun.py
+  497  ls
+  498  sudo nano sample2.pig
+  499  history
+  500  sudo nano emp.txt
+  501  hadoop dfs -nano /test/emp.txt
+  502  cd ..
+  503  cd pig
+  504  sudo nano emp.txt
+  505  sudo nano sal.txt
+  506  hadoop dfs -put emp.txt /tmp/
+  507  hadoop dfs -put sal.txt /tmp/
+  508  sudo nano muydf.py
+  509  python
+  510  pip instal pig_util
+  511  pip install pig_util
+  512  sudo apt-get install pig_util
+  513  sudo apt-get install python-pig_util
+  514  sudo nano muydf.py
+  515  apt-get cache pkgnames | less
+  516  apt-get install screwdriver-data-schema
+  517  sudo apt-get install screwdriver-data-schema
+  518  sudo apt-get install pkgutil
+  519  sudo apt-get install python-pkgutil
+  520  pip install jython
+  521  sudo apt-get install jython
+  522  python
+  523  sudo apt-get install pig_util
+  524  sudo apt-get install pigUtil
+  525  sudo apt-get install pkgUtil
+  526  sudo apt-get install pkgutil
+  527  sudo apt-get install python-pig_util
+  528  hadoop dfs -cat /test/out.txt
+  529  sudo nano sal.txt
+  530  sudo nano sample1.pig
+  531  suco cp /home/aparna/Downloads/pig_util.py /home/pig
+  532  sudo cp /home/aparna/Downloads/pig_util.py /home/pig
+  533  ls
+  534  python
+  535  ls
+  536  sudo nano muydf.py
+  537  pig
+  538  pig
+  539  pig -x local
+  540  cd = group rel1 by id,rel2 by id
+  541  cd Downloads
+  542  ls
+  543  tar -zxvf hbase-1.2.6.1-bin.tar.gz
+  544  sudo tar -zxvf hbase-1.2.6.1-bin.tar.gz
+  545  ls
+  546  cd hbase-1.2.6.1
+  547  ls
+  548  cd conf
+  549  readlink -f /usr/bin/javac
+  550  javac version
+  551  javac --version
+  552  cd ..
+  553  cd..
+  554  cd ..
+  555  javac --version
+  556  cd usr
+  557  cd local
+  558  cd hadoop
+  559  cd etc
+  560  cd hadoop
+  561  ls
+  562  cd ..
+  563  ls
+  564  cd ..
+  565  ls
+  566  cd bin
+  567  ls
+  568  cd ..
+  569  cd etc
+  570  ls
+  571  cd hadoop
+  572  ls
+  573  sudo nano freq.py
+  574  ls
+  575  sudo nano uniqueWord.py
+  576  cd ..
+  577  ls
+  578  sudo nano calcCallCode.py
+  579  puthon calcCallCode.py
+  580  python calcCallCode.py
+  581  sudo nano calcCallCode.py
+  582  python calcCallCode.py
+  583  sudo python calcCallCode.py
+  584  sudo nano calcCallCode.py
+  585  sudo python calcCallCode1.py
+  586  sudo nano calcCallCode1.py
+  587  sudo nano calcCode.py
+  588  sudo nano calcCallCode.py
+  589  ls
+  590  sudo nano calCallCode1.py
+  591  sudo nano calcCode.py
+  592  cd Tweets
+  593  ls
+  594  calcCode.py
+  595  sudo nano calcCode.py
+  596  sudo nano uniqueWord.py
+  597  sudo nano uniqueword.py
+  598  sudo nano freq.py
+  599  python freq.py
+  600  sudo nano freq.py
+  601  python freq.py
+  602  sudo nano quoteFile.py
+  603  sudo nano quoteFile.txt
+  604  python freq.py
+  605  sudo nano quoteFile.txt
+  606  sudo nano calcCode.py
+  607  python freq.py
+  608  sudo nano uniqueword.py
+  609  history
+  610  cd Tweets
+  611  sudo nano configure.py
+  612  sudo nano uniqueword.py
+  613  pythin uniqueword.py
+  614  python uniqueword.py
+  615  sudo nano uniqueword.py
+  616  python uniqueword.py
+  617  sudo nano uniqueword.py
+  618  python uniqueword.py
+  619  sudo nano uniqueword.py
+  620  python uniqueword.py
+  621  sudo nano uniqueword.py
+  622  python uniqueword.py
+  623  sudo nano uniqueword.py
+  624  python uniqueword.py
+  625  sudo nano uniqueword.py
+  626  python uniqueword.py
+  627  sudo nano uniqueword.py
+  628  python uniqueword.py
+  629  sudo nano uniqueword.py
+  630  python uniqueword.py
+  631  sudo nano uniqueword.py
+  632  python uniqueword.py
+  633  sudo nano uniqueword.py
+  634  python uniqueword.py
+  635  sudo nano uniqueword.py
+  636  python uniqueword.py
+  637  sudo nano uniqueword.py
+  638  python uniqueword.py
+  639  sudo nano uniqueword.py
+  640  python uniqueword.py
+  641  sudo nano uniqueword.py
+  642  python uniqueword.py
+  643  sudo nano uniqueword.py
+  644  python uniqueword.py
+  645  sudo nano uniqueword.py
+  646  python uniqueword.py
+  647  sudo nano uniqueword.py
+  648  python uniqueword.py
+  649  sudo nano uniqueword.py
+  650  python uniqueword.py
+  651  sudo nano uniqueword.py
+  652  history
+  653  sudo nano configure.py
+  654  python configure.py
+  655  sudo nano freq.py
+  656  python freq.py
+  657  sudo nano freq.py
+  658  sudo cp /home/aparna/quoteFile.txt /home/aparna/Tweets
+  659  ls
+  660  sudo cp /home/aparna/calcCode.py /home/aparna/Tweets
+  661  ls
+  662  python freq.py
+  663  sudo nano freq.py
+  664  python freq.py
+  665  sudo nano freq.py
+  666  cd ..
+  667  cd usr
+  668  cd local
+  669  cd hadoop
+  670  ls
+  671  cd ..
+  672  cd HBase
+  673  sudo mkdir HBase
+  674  ls
+  675  cd HBase
+  676  sudo cp /home/aparna/Downloads/hbase-1.2.6.1/* HBase/
+  677  cd ..
+  678  sudo cp /home/aparna/Downloads/hbase-1.2.6.1/* /home/usr/local/Hbase/
+  679  sudo cp /home/aparna/Downloads/hbase-1.2.6.1/* /home/usr/local/HBase/
+  680  cd HBase
+  681  ls
+  682  sudo mv /home/aparna/Downloads/hbase-1.2.6.1/* /home/usr/local/HBase/
+  683  ls
+  684  cd conf
+  685  ls
+  686  sudo nano hbase-env.sh
+  687  sudo nano hbase-site.xml
+  688  cd ..
+  689  ls
+  690  cd bin
+  691  ls
+  692  ./start-hbase.sh
+  693  sudo ./start-hbase.sh
+  694  ls
+  695  cd ..
+  696  cd conf
+  697  ls
+  698  sudo nano hbase-env.sh
+  699  sudo nano hbase-site.xml
+  700  cd ..
+  701  cd Hadoop
+  702  ls
+  703  cd HBase
+  704  ls
+  705  cd ..
+  706  cd hadoop
+  707  ls
+  708  sudo nano hbase-site.xml
+  709  cd ..
+  710  cd HBase
+  711  ls
+  712  cd conf
+  713  sudo nano hbase-site.xml
+  714  sudo ./start-hbase.sh
+  715  cd ..
+  716  cd bin
+  717  ./start-hbase.sh
+  718  sudo ./start-hbase.sh
+  719  echo JAVA_HOME
+  720  echo $JAVA_HOME
+  721  sudo nano hbase-site.xml
+  722  cd ..
+  723  cd conf
+  724  sudo nano hbase-site.xml
+  725  sudo nano hbase-env.sh
+  726  cd ..
+  727  cd bin
+  728  sudo ./start-hbase.sh
+  729  sudo nano freq.py
+  730  cd ~
+  731  pwd
+  732  cd ..
+  733  cd aparna
+  734  cd Downloads
+  735  cd ..
+  736  cd Tweets
+  737  sudo nano freq.py
+  738  python freq.py
+  739  ls
+  740  sudo nano freq.py
+  741  python freq.py
+  742  sudo nano freq.py
+  743  python freq.py
+  744  sudo nano freq.py
+  745  su aparna
+  746  sudo python uniqueword.py
+  747  python uniqueword.py
+  748  sudo chmod 777 uniqueWord.py
+  749  sudo chmod 777 uniqueword.py
+  750  python uniqueword.py
+  751  sudo python uniqueword.py
+  752  python uniqueword.py
+  753  sudo nano uniqueword.py
+  754  python uniqueword.py
+  755  sudo python uniqueword.py
+  756  sudo nano uniqueword.py
+  757  sudo python uniqueword.py
+  758  sudo nano uniqueword.py
+  759  sudo python uniqueword.py
+  760  sudo nano uniqueword.py
+  761  sudo python uniqueword.py
+  762  sudo nano uniqueword.py
+  763  sudo python uniqueword.py
+  764  sudo nano uniqueword.py
+  765  sudo python uniqueword.py
+  766  sudo nano uniqueword.py
+  767  sudo python uniqueword.py
+  768  sudo nano uniqueword.py
+  769  sudo python uniqueword.py
+  770  sudo nano uniqueword.py
+  771  sudo python uniqueword.py
+  772  history
+  773  cd Tweets
+  774  sudo nano uniqueword.py
+  775  python uniqueword.py
+  776  sudo nano uniqueword.py
+  777  python uniqueword.py
+  778  sudo nano uniqueword.py
+  779  python uniqueword.py
+  780  sudo nano uniqueword.py
+  781  python uniqueword.py
+  782  sudo nano uniqueword.py
+  783  python uniqueword.py
+  784  sudo nano uniqueword.py
+  785  python uniqueword.py
+  786  sudo nano uniqueword.py
+  787  python uniqueword.py
+  788  sudo nano uniqueword.py
+  789  python uniqueword.py
+  790  sudo nano uniqueword.py
+  791  python uniqueword.py
+  792  sudo nano uniqueword.py
+  793  python uniqueword.py
+  794  sudo nano uniqueword.py
+  795  python uniqueword.py
+  796  sudo nano uniqueword.py
+  797  python uniqueword.py
+  798  su aparna
+  799  mysql -u root
+  800  mysql -u root -p
+  801  cd ~
+  802  pwd
+  803  cd ..
+  804  cd usr
+  805  cd local
+  806  cd hadoop
+  807  ls
+  808  cd bin
+  809  ls
+  810  cd hadoop
+  811  cd /home/usr/local/hadoop
+  812  ls
+  813  history
+  814  cd Tweets
+  815  ls
+  816  sudo nano uniqueword.py
+  817  sudo nano freq.py
+  818  sudo nano uniqueword.py
+  819  ls
+  820  cd sqltohive
+  821  ls
+  822  sudo nano import.sh
+  823  sudo chmod 777 import.sh
+  824  ls
+  825  cd ~
+  826  cd ..
+  827  cd etc
+  828  cd logs
+  829  cd log
+  830  ll
+  831  cd crontab
+  832  sudo nano crontab
+  833  cd var
+  834  cd ..
+  835  cd var
+  836  cd log
+  837  ls
+  838  sudo nano cron.log
+  839  ls
+  840  sudo nano cron.log
+  841  sudo nano cronl.log
+  842  sudo nano cron.log
+  843  sudo nano cronl.log
+  844  ll
+  845  cd /home/aparna/sqltohive
+  846  ll
+  847  sudo nano import.sh
+  848  cd -
+  849  ll
+  850  sudo nano cronl.log
+  851  sudo nano sqoop_command.txt
+  852  mysql -u root -p
+  853  cd sqltohive
+  854  ls
+  855  sudo nano import.sh
+  856  stop-all.sh
+  857  start-all.sh
+  858  history
+  859  ls
+  860  cd sqltohive
+  861  ls
+  862  sudo nano filetosql.py
+  863  python filetosql.py
+  864  sudo nano filetosql.py
+  865  python filetosql.py
+  866  sudo nano filetosql.py
+  867  python filetosql.py
+  868  sudo nano filetosql.py
+  869  python filetosql.py
+  870  sudo nano filetosql.py
+  871  python filetosql.py
+  872  sudo nano filetosql.py
+  873  python filetosql.py
+  874  sudo nano filetosql.py
+  875  python filetosql.py
+  876  sudo nano filetosql.py
+  877  python filetosql.py
+  878  sudo nano filetosql.py
+  879  python filetosql.py
+  880  sudo nano filetosql.py
+  881  python filetosql.py
+  882  sudo nano filetosql.py
+  883  python filetosql.py
+  884  sudo nano filetosql.py
+  885  python filetosql.py
+  886  sudo nano filetosql.py
+  887  python filetosql.py
+  888  sudo nano filetosql.py
+  889  python filetosql.py
+  890  sudo nano filetosql.py
+  891  python filetosql.py
+  892  sudo nano filetosql.py
+  893  python filetosql.py
+  894  sudo nano filetosql.py
+  895  python filetosql.py
+  896  sudo nano filetosql.py
+  897  python filetosql.py
+  898  sudo nano filetosql.py
+  899  python filetosql.py
+  900  sudo nano filetosql.py
+  901  python filetosql.py
+  902  sudo nano filetosql.py
+  903  python filetosql.py
+  904  sudo nano filetosql.py
+  905  python filetosql.py
+  906  sudo nano filetosql.py
+  907  python filetosql.py
+  908  sudo nano filetosql.py
+  909  python filetosql.py
+  910  sudo nano filetosql.py
+  911  python filetosql.py
+  912  sudo nano filetosql.py
+  913  python filetosql.py
+  914  sudo nano filetosql.py
+  915  python filetosql.py
+  916  sudo nano filetosql.py
+  917  python filetosql.py
+  918  sudo nano filetosql.py
+  919  python filetosql.py
+  920  sudo nano filetosql.py
+  921  python filetosql.py
+  922  sudo nano filetosql.py
+  923  python filetosql.py
+  924  sudo nano filetosql.py
+  925  python filetosql.py
+  926  sudo nano filetosql.py
+  927  python filetosql.py
+  928  sudo nano filetosql.py
+  929  python filetosql.py
+  930  sudo nano filetosql.py
+  931  python filetosql.py
+  932  sudo nano filetosql.py
+  933  python filetosql.py
+  934  sudo nano filetosql.py
+  935  python filetosql.py
+  936  sudo nano filetosql.py
+  937  python filetosql.py
+  938  sudo nano filetosql.py
+  939  python filetosql.py
+  940  sudo nano filetosql.py
+  941  python filetosql.py
+  942  sudo nano filetosql.py
+  943  python filetosql.py
+  944  sudo nano filetosql.py
+  945  python filetosql.py
+  946  sudo nano filetosql.py
+  947  python filetosql.py
+  948  sudo nano filetosql.py
+  949  python filetosql.py
+  950  sudo nano filetosql.py
+  951  python filetosql.py
+  952  sudo nano filetosql.py
+  953  python filetosql.py
+  954  sudo nano filetosql.py
+  955  python filetosql.py
+  956  sudo nano filetosql.py
+  957  python filetosql.py
+  958  sudo nano filetosql.py
+  959  python filetosql.py
+  960  sudo nano filetosql.py
+  961  python filetosql.py
+  962  sudo nano filetosql.py
+  963  python filetosql.py
+  964  sudo nano filetosql.py
+  965  python filetosql.py
+  966  sudo nano filetosql.py
+  967  python filetosql.py
+  968  sudo nano filetosql.py
+  969  python filetosql.py
+  970  sudo nano filetosql.py
+  971  python filetosql.py
+  972  sudo nano filetosql.py
+  973  python filetosql.py
+  974  sudo nano filetosql.py
+  975  python filetosql.py
+  976  sudo nano filetosql.py
+  977  python filetosql.py
+  978  sudo nano filetosql.py
+  979  python filetosql.py
+  980  sudo nano filetosql.py
+  981  python filetosql.py
+  982  sudo nano filetosql.py
+  983  python filetosql.py
+  984  sudo nano filetosql.py
+  985  python filetosql.py
+  986  sudo nano filetosql.py
+  987  python filetosql.py
+  988  sudo nano filetosql.py
+  989  python filetosql.py
+  990  sudo nano filetosql.py
+  991  python filetosql.py
+  992  sudo nano filetosql.py
+  993  python filetosql.py
+  994  sudo nano filetosql.py
+  995  python filetosql.py
+  996  sudo nano filetosql.py
+  997  history
+  998  Sqoop import –connect jdbc:mysql://localhost:3306/testdb –username root –password pass –table Customer -m1 –tagret-dir /check/employee7
+  999  sqoop import –connect jdbc:mysql://localhost:3306/testdb –username root –password pass –table Customer -m1 –tagret-dir /check/employee7
+ 1000  sqoop import --connect jdbc:mysql://localhost:3306/testdb --username root --password pass --split-by orderid --table Customer --m1 --tagret-dir /check/employee7 --fields-terminated-by "," --hive-import
+ 1001  sqoop import --connect jdbc:mysql://localhost:3306/testdb --username root --password pass --split-by orderid --table Customer --tagret-dir /check/employee7 --fields-terminated-by "," --hive-import
+ 1002  cd ,,
+ 1003  cd ..
+ 1004  ls
+ 1005  cd ..
+ 1006  cd usr
+ 1007  cd local
+ 1008  ls
+ 1009  cd sqoop
+ 1010  cd bin
+ 1011  ls
+ 1012  history
+ 1013  sqoop import --connect jdbc:mysql://localhost:3306/testdb --username root --password pass --split-by orderid --table Customer --tagret-dir /check/employee7 --fields-terminated-by "," --hive-import
+ 1014  sqoop import --connect jdbc:mysql://localhost:3306/testdb --username root -P --split-by orderid --table Customer --target-dir /check/employee7 --fields-terminated-by "," --hive-import
+ 1015  sqoop import --connect jdbc:mysql://localhost:3306/testdb --username root -P --table emp --target-dir /check/employee7 --fields-terminated-by "," --hive-import
+ 1016  sqoop import --connect jdbc:mysql://localhost:3306/testdb --username root -P --table emp --target-dir /check/employee6 --fields-terminated-by "," --hive-import
+ 1017  sqoop import --connect jdbc:mysql://localhost:3306/testdb --username root -P --table Customer --target-dir /check/employee9 --fields-terminated-by "," --hive-import
+ 1018  sqoop import --connect jdbc:mysql://localhost:3306/testdb --username root -P --table Customer -m 1 --target-dir /check/employee9 --fields-terminated-by "," --hive-import
+ 1019  sqoop import --connect jdbc:mysql://localhost:3306/testdb --username root -P --table Customer --target-dir /check/employee9 --fields-terminated-by "," --hive-import
+ 1020  sqoop import --connect jdbc:mysql://localhost:3306/testdb --username root -P --table Customer --target-dir /check/employee10 --fields-terminated-by "," --hive-import
+ 1021  sqoop import --connect jdbc:mysql://localhost:3306/testdb --username root -P --table Customer --target-dir /check/employee11 --fields-terminated-by "," --hive-import
+ 1022  sqoop import --connect jdbc:mysql://localhost/testdb --username root -P --table Customer --target-dir /check/employee12 --fields-terminated-by "," --hive-import
+ 1023  sqoop import --connect jdbc:mysql://localhost:3306/testdb --username root -P -split-by sno --table Customer --target-dir /check/employee12 --fields-terminated-by "," --hive-import
+ 1024  sqoop import --connect jdbc:mysql://localhost:3306/testdb --username root -P -split-by eid --table emp --target-dir /check/employee8 --fields-terminated-by "," --hive-import
+ 1025  sqoop import --connect jdbc:mysql://localhost:3306/testdb --username root -P -split-by eid --table emp --incremental append --check-column eid --last-value 11 --target-dir /check/employee8 --fields-terminated-by "," --hive-import
+ 1026  sqoop import --connect jdbc:mysql://localhost:3306/testdb --username root -P -split-by eid --table emp --incremental lastmodified --check-column eid --last-value 11 --target-dir /check/employee8 --fields-terminated-by "," --hive-import
+ 1027  sqoop import --connect jdbc:mysql://localhost:3306/testdb --username root -P -split-by eid --table emp --check-column eid --incremental lastmodified --last-value 11 --target-dir /check/employee8 --fields-terminated-by "," --hive-import
+ 1028  sqoop import --connect jdbc:mysql://localhost:3306/testdb --username root -P -split-by eid --table emp --append --check-column eid --incremental lastmodified --last-value 11 --target-dir /check/employee8 --fields-terminated-by "," --hive-import
+ 1029  sqoop import --connect jdbc:mysql://localhost:3306/testdb --username root -P -split-by eid --table emp --append --check-column eid --last-value 11 --incremental lastmodified --target-dir /check/employee8 --fields-terminated-by "," --hive-import
+ 1030  sqoop import --connect jdbc:mysql://localhost:3306/testdb --username root -P -split-by eid --table emp --target-dir /check/employee14 --fields-terminated-by "," --hive-import
+ 1031  sqoop import --connect jdbc:mysql://localhost:3306/testdb --username root -P -split-by sno --table Customer --target-dir /check/employee16 --fields-terminated-by "," --hive-import
+ 1032  sqoop import --connect jdbc:mysql://localhost:3306/testdb --username root --password pass -split-by eid --table emp --target-dir /check/employee17 --fields-terminated-by "," --hive-import
+ 1033  mysql -u root -p
+ 1034  sqoop import --connect jdbc:mysql://localhost:3306/testdb --username root --password pass -split-by sno --table copy_tbl --target-dir /check/test20 --fields-terminated-by "," --hive-import
+ 1035  mysql -u root -p
+ 1036  sqoop import --connect jdbc:mysql://localhost:3306/testdb --username root --password pass -split-by sno --table copy2 --target-dir /check/test21 --fields-terminated-by "," --hive-import
+ 1037  mysql -u root -p
+ 1038  sqoop import --connect jdbc:mysql://localhost:3306/testdb --username root --password pass -split-by sno --table copy3 --target-dir /check/test22 --fields-terminated-by "," --hive-import
+ 1039  sqoop import --connect jdbc:mysql://localhost:3306/testdb --username root --password pass -split-by eid --table emp --target-dir /check/test23 --fields-terminated-by "," --hive-import
+ 1040  schematool -dbType derby -initSchema
+ 1041  sqoop import --connect jdbc:mysql://localhost:3306/testdb --username root --password pass -split-by sno --table copy3 --target-dir /check/test24 --fields-terminated-by "," --hive-import
+ 1042  schematool -dbType derby -initSchema
+ 1043  sudo schematool -dbType derby -initSchema
+ 1044  sqoop import --connect jdbc:mysql://localhost:3306/testdb --username root --password pass -split-by sno --table copy3 --target-dir /check/test25 --fields-terminated-by "," --hive-import
+ 1045  sqoop import --connect jdbc:mysql://localhost:3306/testdb --username root --password pass -split-by --table widgets
+ 1046  sqoop import --connect jdbc:mysql://localhost:3306/testdb --username root --password pass --table widgets
+ 1047  mysql -u root -p
+ 1048  sqoop import --connect jdbc:mysql://localhost:3306/testdb --username root --password pass -split-by eid --table empbak --target-dir /check/test26 --fields-terminated-by "," --hive-import
+ 1049  sqoop import --connect jdbc:mysql://localhost:3306/testdb --username root --password pass -split-by eid --table emp --target-dir /check/test27 --fields-terminated-by "," --hive-import
+ 1050  cat >employeedetails.txt
+ 1051  sudo nano employeedetails.txt
+ 1052  cat employeedetails.txt
+ 1053  jps
+ 1054  hadoop dfs -put employeedetails.txt /pigfunction
+ 1055  hadoop dfs -cat pigfunction/employeedetails.txt
+ 1056  hadoop dfs -cat /pigfunction/employeedetails.txt
+ 1057  pig
+ 1058  sudo nano employeedetails.txt
+ 1059  cat employeedetails.txt
+ 1060  hadoop dfs -put employeedetails.txt /pigfunction
+ 1061  hadoop dfs -cat /pigfunction/employeedetails.txt
+ 1062  hadoop dfs -rm /pigfunction/employeedetails.txt
+ 1063  hadoop dfs -put employeedetails.txt /pigfunction
+ 1064  hadoop dfs -cat /pigfunction/employeedetails.txt
+ 1065  pig
+ 1066  history
+ 1067  history >> 20190811.txt
